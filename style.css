@@ -8,11 +8,14 @@ h1{
 h2{
     font-size: 40px;
 }
+#padd-ex{
+    padding-left: 107px;
+}
 p{
     color: dimgray;
     padding-bottom: 10px;
 }
-.name-highlight{
+.orange-highlight{
     color: orange;
 }
 .half-width{
